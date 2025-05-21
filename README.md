@@ -15,3 +15,4 @@
 **3.** The dataset is categorized into three series: easy, middle, and hard. Each category corresponds to varying scene sizes and complexities.
 
 **4.** The Mid360 LiDAR has been installed on the Unitree Go2 to facilitate data collection. The LiDAR and the ground are inclined at a tilt angle of $13^\circ$, consequently, the input point cloud is adjusted to align with the gravitational direction through transformation.
+\item This paper presents a publicly accessible dataset specifically designed for floorplan reconstruction in large-scale indoor GPS-denied environments, comprising six sequences. The sequences are organized into three categories—easy, middle, and hard—to address diverse scenario requirements. Furthermore, the dataset was gathered in  roughcast rooms featuring few obstacles and is accompanied by corresponding CAD data, which aids in the quantitative analysis of the floorplan reconstruction.
