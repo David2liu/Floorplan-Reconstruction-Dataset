@@ -7,7 +7,7 @@
 [Middle02](https://1drv.ms/f/s!Aq1AwkbPOmhdgiKT_8KN6SVku06k?e=spGc7p)
 [Hard01](https://1drv.ms/f/s!Aq1AwkbPOmhdgiNJgvaczzTptBN4?e=cxJ6c8)
 [Hard02](https://1drv.ms/f/s!Aq1AwkbPOmhdgiQie22ijL14MVpa?e=q7iiQd)
-![equipment](https://1drv.ms/i/s!Aq1AwkbPOmhdgiWBF4tydToo04Mg?e=rbNeBM "equipment")  
+![equipment](https://github.com/David2liu/Floorplan-Reconstruction-Dataset/blob/main/equipment.jpg "equipment") 
 
 2.The dataset employs MID360 and an integrated IMU for data collection. The extrinsic parameters of the LiDAR and IMU, as well as the intrinsic parameters of the IMU itself, can be referenced in the Mid360 manua
 
